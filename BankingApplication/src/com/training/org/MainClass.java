@@ -9,6 +9,8 @@ public class MainClass {
         XYZBank x2=new XYZBank("MYBank","USA",40000);
         System.out.println(x2);
 
+        XYZBank x3=new XYZBank();
+
 
     }
 }
